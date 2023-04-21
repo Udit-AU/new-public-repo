@@ -1,0 +1,3 @@
+[submodule "new-private-repo"]
+	path = new-private-repo
+	url = https://github.com/Udit-AU/new-private-repo.git
